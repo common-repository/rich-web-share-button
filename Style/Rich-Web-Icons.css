@@ -1,0 +1,41 @@
+@font-face {
+font-family: 'FontAwesome';
+src: url('../Scripts/fonts/fontawesome-webfont.eot?v=4.6.3');
+src: url('../Scripts/fonts/fontawesome-webfont.eot?#iefix&v=4.6.3') format('embedded-opentype'), url('../Scripts/fonts/fontawesome-webfont.woff2?v=4.6.3') format('woff2'), url('../Scripts/fonts/fontawesome-webfont.woff?v=4.6.3') format('woff'), url('../Scripts/fonts/fontawesome-webfont.ttf?v=4.6.3') format('truetype'), url('../Scripts/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+.rich_web {
+display: inline-block;
+font: normal normal normal 14px/1 FontAwesome;
+font-size: inherit;
+text-rendering: auto;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+font-size: 30px;
+}
+.rich_web-pencil:before{content: "\f040";}
+.rich_web-twitter-square:before{content: "\f081";}
+.rich_web-facebook-square:before{content: "\f082";}
+.rich_web-thumbs-o-up:before{content: "\f087";}
+.rich_web-thumbs-o-down:before{content: "\f088";}
+.rich_web-linkedin-square:before{content: "\f08c";}
+.rich_web-twitter:before{content: "\f099";}
+.rich_web-facebook-f:before, .rich_web-facebook:before{content: "\f09a";}
+.rich_web-feed:before, .rich_web-pinterest:before{content: "\f0d2";}
+.rich_web-pinterest-square:before{content: "\f0d3";}
+.rich_web-google-plus-square:before{content: "\f0d4";}
+.rich_web-google-plus:before{content: "\f0d5";}
+.rich_web-linkedin:before{content: "\f0e1";}
+.rich_web-chevron-circle-left:before{content: "\f137";}
+.rich_web-chevron-circle-right:before{content: "\f138";}
+.rich_web-chevron-circle-up:before{content: "\f139";}
+.rich_web-chevron-circle-down:before{content: "\f13a";}
+.rich_web-tumblr:before{content: "\f173";}
+.rich_web-vk:before{content: "\f189";}
+.rich_web-stumbleupon:before{content: "\f1a4";}
+.rich_web-digg:before{content: "\f1a6";}
+.rich_web-trash:before{content: "\f1f8";}
+.rich_web-facebook-official:before{content: "\f230";}
+.rich_web-pinterest-p:before{content: "\f231";}
+.rich_web-google-plus-circle:before, .rich_web-google-plus-official:before{content: "\f2b3";}
